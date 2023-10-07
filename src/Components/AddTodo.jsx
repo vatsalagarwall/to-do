@@ -11,6 +11,7 @@ function AddTodo() {
     e.preventDefault();
     dispatch(addTodo(input));
     setInput("");
+    //clears input
   };
 
   return (
