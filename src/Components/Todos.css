@@ -29,6 +29,6 @@ li button {
   transition: background-color 0.3s ease;
 }
 
-li button:hover {
+/* li button:hover {
   background-color: #d91c00;
-}
+} */
